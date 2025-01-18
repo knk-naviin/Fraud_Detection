@@ -20,3 +20,7 @@ The repository is organized as follows:
 # Model Train Report
 
 ![Model Train Report](image/Report.png)
+
+# Result for Cost based GNN Model Training
+
+![Result](image/Result.png)
