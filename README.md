@@ -1,4 +1,4 @@
-# PandCGNN
+# Path and Cost Based GNN Model
 
 A PyTorch implementation for the paper below:  
 **Path and Cost Based GNN Model for Imbalanced Learning for Mobile Social Network Fraud Detection**
