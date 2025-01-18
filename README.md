@@ -20,4 +20,4 @@ The repository is organized as follows:
 # Model Train Report
 
 "
-![Alt text]("Fraud_Detection/Training and Validation Metrics Summary.png")
+![Model Train Report]("Report.png")

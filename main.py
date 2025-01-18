@@ -248,6 +248,7 @@ if __name__ == '__main__':
         device = 'cpu'
     setup_seed(42)
     main(args)
-main.py
+
+main,py
 
 
